@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// Sesuaikan path import dengan nama file halaman utama Anda
 import 'widgets/home_page.dart';
 
 void main() {
